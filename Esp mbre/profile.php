@@ -8,7 +8,7 @@
     $result = mysqli_query($db, $query);
     $user = mysqli_fetch_assoc($result);
 
-    // Affichez le formulaire de modification du profil
+    // Afficher le formulaire de modification du profil
     echo "
       <form action='update_profile.php' method='post'>
         <label for='email'>Email:</label><br>
