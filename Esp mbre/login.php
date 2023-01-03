@@ -1,5 +1,5 @@
 <?php
-  // Récupération des données du formulaire..
+  // Récupération des données du formulaire
   $username = $_POST['username'];
   $password = $_POST['password'];
 
