@@ -1,5 +1,5 @@
 <?php
-  // Vérifier si la variable de session existe avant d'afficher le formulaire de modification du profil
+  // Vérifiez si la variable de session existe avant d'afficher le formulaire de modification du profil
   session_start();
   if (isset($_SESSION['logged_in']) && $_SESSION['logged_in'] == true) {
     // Récupération des informations de l'utilisateur à partir de la base de données
