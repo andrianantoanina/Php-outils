@@ -1,10 +1,10 @@
 
 
-Générer un code de formulaire en programmation orientée objet
+/**Générer un code de formulaire en programmation orientée objet
 
 Voici comment vous pouvez créer un formulaire en utilisant la programmation orientée objet en PHP:
 
-Créez une classe Form avec les propriétés et méthodes nécessaires pour votre formulaire. Par exemple:
+Créez une classe Form avec les propriétés et méthodes nécessaires pour votre formulaire. Par exemple:**/
 
 class Form {
   // propriétés de la classe (champs du formulaire)
