@@ -7,7 +7,7 @@ Voici comment vous pouvez créer un formulaire en utilisant la programmation ori
 Créez une classe Form avec les propriétés et méthodes nécessaires pour votre formulaire. Par exemple:**/
 
 class Form {
-  // propriétés de la classe (champs du formulaire)
+  // propriétés de la classe (champs du formulaire:name)
   public $name;
   public $email;
   public $message;
