@@ -1,4 +1,4 @@
 # Php
-Ce fichier regroupe beaucoup de fonctionnalites en php.
+Ce fichier regroup beaucoup de fonctionnalites en php.
 
 .
